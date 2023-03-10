@@ -878,7 +878,7 @@
         mainnet:
           Object({ NODE_ENV: "production", BASE_URL: "/" })
             .VUE_APP_MAINNET_URL ||
-          "https://solana-mainnet.g.alchemy.com/v2/50yE3f9J09AvAX4ikXonW5wCFZVdEgJv",
+          "https://nd-197-166-301.p2pify.com/8a6b8ceab7e5c3c36b080570a30b48aa",
         devnet:
           Object({ NODE_ENV: "production", BASE_URL: "/" })
             .VUE_APP_DEVNET_URL || "https://api.devnet.solana.com",
