@@ -878,7 +878,7 @@
         mainnet:
           Object({ NODE_ENV: "production", BASE_URL: "/" })
             .VUE_APP_MAINNET_URL ||
-          "https://nd-197-166-301.p2pify.com/8a6b8ceab7e5c3c36b080570a30b48aa",
+          "https://mainnet.helius-rpc.com/?api-key=81c3b8a0-11d6-4ca3-9b77-c412d29e471b",
         devnet:
           Object({ NODE_ENV: "production", BASE_URL: "/" })
             .VUE_APP_DEVNET_URL || "https://api.devnet.solana.com",
